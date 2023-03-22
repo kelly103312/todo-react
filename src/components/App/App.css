@@ -1,3 +1,19 @@
+:root{
+  --uva: #473768;
+  --blue-primary:#0716e4;
+  --blue-secundary:#91aaf6;
+  --blue-info:#04049a;
+  --pink-primary:#b0508a;
+  --pink-secundary:#d29ead;
+  --back-color: #07050f;
+  --back-color2: #1a1a1b;
+  --purple-secundary:#1c1264;
+
+}
+body{
+  background-color: var(--back-color2);
+  font-family: Consolas, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
+}
 .App {
   text-align: center;
 }
